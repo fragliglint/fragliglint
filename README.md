@@ -25,9 +25,6 @@
   </a>
   <a href="https://instagram.com/fragliglint" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-  <a href="https://drive.google.com/file/d/1VNoOW1NqnZRiL7BhfJzCTUmFfEw_vJqn/view?usp=sharing" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/CV.svg" alt="CV" height="40" width="50" />
-</a>
 </p>
 
 <br>
