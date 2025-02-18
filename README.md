@@ -74,9 +74,9 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sifat-Noor-Siam&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fragliglint&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sifat-Noor-Siam&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fragliglint&theme=radical" alt="GitHub Streak" />
 </p>
 
 <hr style="width:60%; margin: auto;">
