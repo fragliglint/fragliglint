@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, This is Sifat Noor Siam</h1>
-<h3 align="center">A passionate frontend,backend developer and data analyst</h3>
+<h3 align="center">A passionate frontend, backend developer, and data analyst</h3>
 
-<h3 align="center">Connect with me:</h3>
+<hr style="width:60%; margin: auto; border: 1px solid #ddd;">
+
+<br>
+
+<h3 align="center">✨ Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sifat-noor-siam-953650206" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -14,8 +18,13 @@
   </a>
 </p>
 
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
+<hr style="width:60%; margin: auto; border: 1px solid #ddd;">
+
+<br>
+
+<h3 align="center">🚀 Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -54,3 +63,11 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> 
 </p>
+
+<br>
+
+<hr style="width:60%; margin: auto; border: 1px solid #ddd;">
+
+<br>
+
+<h3 align="center">🔥 "Code, Create, and Innovate!"</h3>
