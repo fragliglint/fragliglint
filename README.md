@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, This is <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/floating-name.svg" width="200px"></h1>
+<h1 align="center">Hi 👋, This is Sifat Noor Siam</h1>
 <h3 align="center">A passionate Frontend & Backend Developer and Data Analyst</h3>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0); }
-}
-</style>
-
 
 <hr style="width:60%; margin: auto;">
 
