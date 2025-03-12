@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Floating Text</title>
+    <title>GitHub README Intro</title>
     <style>
         body {
             display: flex;
@@ -11,8 +11,8 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #121212;
-            color: white;
+            background-color: #0d1117;
+            color: #c9d1d9;
             font-family: Arial, sans-serif;
             text-align: center;
         }
@@ -20,6 +20,7 @@
             position: relative;
         }
         .floating {
+            display: inline-block;
             animation: float 3s ease-in-out infinite;
         }
         @keyframes float {
@@ -34,7 +35,6 @@
     <h3 align="center">A passionate Frontend & Backend Developer and Data Analyst</h3>
 </body>
 </html>
-
 
 <hr style="width:60%; margin: auto;">
 
