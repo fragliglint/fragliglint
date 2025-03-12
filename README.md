@@ -1,5 +1,40 @@
-<h1 align="center">Hi 👋, This is Sifat Noor Siam</h1>
-<h3 align="center">A passionate Frontend & Backend Developer and Data Analyst</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floating Text</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #121212;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1, h3 {
+            position: relative;
+        }
+        .floating {
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">Hi 👋, This is <span class="floating">Sifat Noor Siam</span></h1>
+    <h3 align="center">A passionate Frontend & Backend Developer and Data Analyst</h3>
+</body>
+</html>
+
 
 <hr style="width:60%; margin: auto;">
 
