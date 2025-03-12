@@ -1,40 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub README Intro</title>
-    <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-        h1, h3 {
-            position: relative;
-        }
-        .floating {
-            display: inline-block;
-            animation: float 3s ease-in-out infinite;
-        }
-        @keyframes float {
-            0% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-            100% { transform: translateY(0); }
-        }
-    </style>
-</head>
-<body>
-    <h1 align="center">Hi 👋, This is <span class="floating">Sifat Noor Siam</span></h1>
-    <h3 align="center">A passionate Frontend & Backend Developer and Data Analyst</h3>
-</body>
-</html>
+<h1 align="center">Hi 👋, This is <span style="animation: float 3s ease-in-out infinite;">Sifat Noor Siam</span></h1>
+<h3 align="center">A passionate Frontend & Backend Developer and Data Analyst</h3>
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0); }
+}
+</style>
+
 
 <hr style="width:60%; margin: auto;">
 
