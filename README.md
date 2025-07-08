@@ -73,8 +73,8 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/> 
   </a> 
-  <a href="https://tensorflow.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://tensorflow.pydata.org/_images/logo-mark-lightbg.svg" alt="tensorflow" width="50" height="50"/> 
+  <a href="https://www.tensorflow.org/api_docs/python/tf" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" width="50" height="50"/> 
   </a>
 </p>
 
