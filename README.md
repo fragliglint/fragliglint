@@ -7,13 +7,12 @@
 <hr style="width:60%; margin: auto;">
 
 <br>
-
-<h2 align="center">👨‍💻 About Me:</h2>
+<h2 align="center">About Me:</h2>
 <p align="center">
-🌟 I am a tech enthusiast who loves building interactive web applications and analyzing data to uncover insights.<br>
-🎯 Skilled in both Frontend and Backend development, combining creativity and logic.<br>
-📊 I enjoy working on data-driven projects that solve real-world problems.<br>
-🚀 Always eager to learn new technologies and enhance my skills!
+I am a tech enthusiast who loves building interactive web applications and analyzing data to uncover insights.<br>
+Skilled in both Frontend and Backend development, combining creativity and logic.<br>
+I enjoy working on data-driven projects that solve real-world problems.<br>
+Always eager to learn new technologies and enhance my skills!
 </p>
 <br>
 
