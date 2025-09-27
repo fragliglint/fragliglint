@@ -15,7 +15,14 @@ I enjoy working on data-driven projects that solve real-world problems.<br>
 Always eager to learn new technologies and enhance my skills!
 </p>
 <br>
-
+<br>
+<h2 align="center">🔗 Click this image to see My Portfolio:</h2>
+<p align="center">
+  <a href="my-portfolio-nu-sandy-55.vercel.app" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/020/815/881/non_2x/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" alt="LinkedIn" height="40" width="50" />
+  </a>
+<\p>
+<br>
 <h2 align="center">🔗 Connect with Me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/sifat-noor-siam-953650206" target="_blank">
