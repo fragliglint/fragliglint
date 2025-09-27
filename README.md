@@ -26,10 +26,11 @@ Always eager to learn new technologies and enhance my skills!
       alt="Portfolio Link" 
       height="80" 
       width="80" 
-      style="cursor: pointer;"
+      style="display: block; margin: 0 auto; cursor: pointer;"
     />
   </a>
 </p>
+
 
   
 <h2 align="center">🔗 Connect with Me:</h2>
