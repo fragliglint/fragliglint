@@ -16,13 +16,22 @@ Always eager to learn new technologies and enhance my skills!
 </p>
 <br>
 <br>
-<h2 align="center">🔗 Click this image to see My Portfolio:</h2>
-<p align="center">
-  <a href="my-portfolio-nu-sandy-55.vercel.app" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/020/815/881/non_2x/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" alt="LinkedIn" height="40" width="50" />
+
+
+<h2 style="text-align: center;">🔗 Click the image to see My Portfolio</h2>
+<p style="text-align: center;">
+  <a href="https://my-portfolio-nu-sandy-55.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://static.vecteezy.com/system/resources/previews/020/815/881/non_2x/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" 
+      alt="Portfolio Link" 
+      height="80" 
+      width="80" 
+      style="cursor: pointer;"
+    />
   </a>
-<\p>
-<br>
+</p>
+
+  
 <h2 align="center">🔗 Connect with Me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/sifat-noor-siam-953650206" target="_blank">
