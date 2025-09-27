@@ -18,15 +18,15 @@ Always eager to learn new technologies and enhance my skills!
 <br>
 
 
-<h2 style="text-align: center;">🔗 Click the image to see My Portfolio</h2>
-<p style="text-align: center;">
+<h2 align="center">🔗 Click the image to see My Portfolio</h2>
+
+<p align="center">
   <a href="https://my-portfolio-nu-sandy-55.vercel.app" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://static.vecteezy.com/system/resources/previews/020/815/881/non_2x/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" 
       alt="Portfolio Link" 
-      height="80" 
       width="80" 
-      style="display: block; margin: 0 auto; cursor: pointer;"
+      height="80"
     />
   </a>
 </p>
