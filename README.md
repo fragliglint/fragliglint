@@ -44,7 +44,7 @@ Always eager to learn new technologies and enhance my skills!
   <a href="https://instagram.com/fragliglint" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
   </a>
-  <a href="https://drive.google.com/file/d/1JcyGcHQ8rnEo5IzEARme2ashmTOB7mH1/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/17pcdI5UCVv8uemP1IxGQ7ujlIaFsx4dI/view?usp=sharing">
     <img src="https://cdn.pixabay.com/photo/2017/05/09/00/15/resume-2296951_1280.png" alt="CV" height="40" width="50" />
   </a>
 </p>
