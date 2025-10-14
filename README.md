@@ -96,7 +96,7 @@ Always eager to learn new technologies and enhance my skills!
     <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" width="50" height="50"/> 
   </a><br>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.seeklogo.com/logo-png/27/2/node-js-logo-png_seeklogo-273749.png" alt="C" width="50" height="50"/> 
+    <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" alt="C" width="50" height="50"/> 
   </a>
 </p>
 
