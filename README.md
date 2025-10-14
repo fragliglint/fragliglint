@@ -98,6 +98,9 @@ Always eager to learn new technologies and enhance my skills!
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" alt="C" width="50" height="50"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://images.seeklogo.com/logo-png/44/1/next-js-logo-png_seeklogo-449824.png" alt="tensorflow" width="50" height="50"/> 
+  </a>
 </p>
 
 <br>
