@@ -101,6 +101,9 @@ Always eager to learn new technologies and enhance my skills!
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDhToI2qXcg7_rvQPf7n9nCO1pl_c1Obiy8Oxkwa6mntu_1XW1b_Uifw&s" alt="tensorflow" width="50" height="50"/> 
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" alt="tensorflow" width="50" height="50"/> 
+  </a>
 </p>
 
 <br>
