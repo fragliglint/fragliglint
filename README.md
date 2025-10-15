@@ -32,6 +32,7 @@ Always eager to learn new technologies and enhance my skills!
 </p>
 
 
+
   
 <h2 align="center">🔗 Connect with Me:</h2>
 <p align="center">
@@ -49,6 +50,18 @@ Always eager to learn new technologies and enhance my skills!
   </a>
 </p>
 
+<br>
+
+
+<h2 align="center">🚀 My Upcoming Project</h2>
+
+<p align="center">I am currently working on a web app to showcase my projects and skills.</p>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/14-MlcuzJwhJryDwvJF1N0PLjpnFFHzeb" target="_blank">
+    View Project Files
+  </a>
+</p>
 <br>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
