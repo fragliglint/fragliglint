@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" fill="none" role="img">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7" stop-opacity="0"/><stop offset=".5" stop-color="#00D8A7"/><stop offset="1" stop-color="#00D8A7" stop-opacity="0"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7" stop-opacity=".7"/><stop offset="1" stop-color="#30363D" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="39" y="20" width="2" height="196" fill="url(#vl)"/>
+<linearGradient id="vl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00D8A7"/><stop offset="1" stop-color="#30363D"/></linearGradient>
+<circle cx="40" cy="34" r="7" fill="#00D8A7" fill-opacity=".5"><animate attributeName="r" values="7;17" dur="2.4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values=".5;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="40" cy="34" r="7" fill="#0D1117" stroke="#00D8A7" stroke-width="2.5"/>
+<rect x="80.5" y="0.5" width="879" height="108" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="104" y="18" width="148" height="24" rx="12" fill="#00D8A714" stroke="#00D8A766"/><text x="178" y="33.85" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="500" fill="#00D8A7" text-anchor="middle" >OCT 2025 — PRESENT</text>
+<text x="104" y="62" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#E6EDF3" text-anchor="start" >Full Stack Software Engineer</text>
+<text x="104" y="82" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="500" fill="#00D8A7" text-anchor="start" >CeylonZtudio · Dhaka</text>
+<text x="104" y="100" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#8B949E" text-anchor="start" >Engineering HR Management System (ceylonztudio.com) with Laravel, SQL, Tailwind &amp; Hostinger.</text>
+<circle cx="40" cy="158" r="7" fill="#00D8A7" fill-opacity=".5"><animate attributeName="r" values="7;17" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values=".5;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="40" cy="158" r="7" fill="#0D1117" stroke="#00D8A7" stroke-width="2.5"/>
+<rect x="80.5" y="124.5" width="879" height="108" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="104" y="142" width="148" height="24" rx="12" fill="#00D8A714" stroke="#00D8A766"/><text x="178" y="157.85" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="500" fill="#00D8A7" text-anchor="middle" >JAN 2022 — DEC 2025</text>
+<text x="104" y="186" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#E6EDF3" text-anchor="start" >B.Sc. in Computer Science &amp; Engineering</text>
+<text x="104" y="206" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="500" fill="#00D8A7" text-anchor="start" >East West University · Dhaka</text>
+<text x="104" y="224" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#8B949E" text-anchor="start" >CGPA: 3.46 · Published Author at IEEE ICCIT 2025 · General Secretary, EWU Science Club.</text>
+</svg>
