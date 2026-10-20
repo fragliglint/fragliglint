@@ -33,8 +33,9 @@ class SifatNoorSiam:
     working_at: str = "CeylonZtudio"
 
     focus: list = field(default_factory=lambda: [
-        "Full-Stack Web & Mobile",    # Next.js · React Native · Laravel
-        "Self-Supervised Learning",   # SimCLR · MoCo · BYOL · IEEE ICCIT '25
+        "Full-Stack Web & Mobile",    # Next.js · React Native · Laravel · Flutter · Node.js 
+        "Machine Learning",   # SimCLR · MoCo · BYOL · DINO · SwAV · Barlow Twins · VICReg · SimSiam · MAE · CLIP · Linear Regression · Polynomial Regression                                    # Ridge Regression · Lasso Regression · Elastic Net Regression · Bayesian Linear Regression · Logistic Regression · SVM · U-Net
+                              # Decision Tree · Random Forest · XGBoost · LightGBM · CatBoost · KNN · Naive Bayes · MLP · CNN · ResNet · Vision Transformer (ViT)  
         "Computer Vision & YOLO",     # real-time detection & navigation
         "Data-Driven Systems",        # turning data & analytics into decisions
     ])
